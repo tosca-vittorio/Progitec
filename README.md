@@ -1,6 +1,6 @@
-https://tosca-vittorio.github.io/Progitec/
 # Progitec srl - Servizi Ambientali 🌍 
-Progetto di sviluppo per il portale di Progitec srl, un'azienda catanese nel settore della raccolta differenziata e dei servizi ambientali.
+Progetto di sviluppo per il portale di Progitec srl, un'azienda catanese nel settore della raccolta differenziata e dei servizi ambientali. 
+https://tosca-vittorio.github.io/Progitec/
 
 ## 📋 Descrizione
 Il progetto consiste nella realizzazione di quattro pagine web statiche in **HTML5, CSS, e JavaScript**. L’interfaccia è stata creata su richiesta dell’azienda, con layout responsive e un design moderno e accessibile.
